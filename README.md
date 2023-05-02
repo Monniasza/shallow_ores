@@ -1,5 +1,6 @@
-# Shallow Ores
+# Shallow Ores [![ContentDB](https://content.minetest.net/packages/Monniasza/shallow_ores/shields/downloads/)](https://content.minetest.net/packages/Monniasza/shallow_ores/)
 Places ores shallower in your Minetest world! No more grinding!
+[Place a review here](https://content.minetest.net/packages/Monniasza/shallow_ores/review/)
 New ore generation:
 * Tin ore: below 16 blocks
 * Copper ore: below 32 blocks
