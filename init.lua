@@ -6,7 +6,7 @@ minetest.register_ore({
 	clust_scarcity = 10 * 10 * 10,
 	clust_num_ores = 5,
 	clust_size     = 4,
-	y_max          = -16,
+	y_max          = -12,
 	y_min          = -31000,
 })
 minetest.register_ore({
@@ -16,7 +16,7 @@ minetest.register_ore({
 	clust_scarcity = 9 * 9 * 9,
 	clust_num_ores = 5,
 	clust_size     = 4,
-	y_max          = -32,
+	y_max          = -16,
 	y_min          = -31000,
 })
 minetest.register_ore({
@@ -26,7 +26,7 @@ minetest.register_ore({
 	clust_scarcity = 12 * 12 * 12,
 	clust_num_ores = 29,
 	clust_size     = 5,
-	y_max          = -40,
+	y_max          = -20,
 	y_min          = -31000,
 })
 minetest.register_ore({
@@ -36,7 +36,7 @@ minetest.register_ore({
 	clust_scarcity = 13 * 13 * 13,
 	clust_num_ores = 5,
 	clust_size     = 3,
-	y_max          = -64,
+	y_max          = -32,
 	y_min          = -31000,
 })
 minetest.register_ore({
@@ -46,7 +46,7 @@ minetest.register_ore({
 	clust_scarcity = 14 * 14 * 14,
 	clust_num_ores = 5,
 	clust_size     = 3,
-	y_max          = -100,
+	y_max          = -40,
 	y_min          = -31000,
 })
 minetest.register_ore({
@@ -56,7 +56,7 @@ minetest.register_ore({
 	clust_scarcity = 15 * 15 * 15,
 	clust_num_ores = 4,
 	clust_size     = 3,
-	y_max          = -160,
+	y_max          = -60,
 	y_min          = -31000,
 })
 minetest.register_ore({
@@ -66,6 +66,6 @@ minetest.register_ore({
 	clust_scarcity = 28 * 28 * 28,
 	clust_num_ores = 5,
 	clust_size     = 3,
-	y_max          = -180,
+	y_max          = -72,
 	y_min          = -31000,
 })
